@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1771111693 source:/home/seth/Documents/dernier_rendu/gestion_emplacement/main.c
+	<stdio.h>
+	"type_emplacement.h"
+	"emplacement.h"
+
+1771105351 /home/seth/Documents/dernier_rendu/gestion_emplacement/type_emplacement.h
+
+1771105429 source:/home/seth/Documents/dernier_rendu/gestion_emplacement/type_emplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type_emplacement.h"
+
+1771110693 /home/seth/Documents/dernier_rendu/gestion_emplacement/emplacement.h
+
+1771110470 source:/home/seth/Documents/dernier_rendu/gestion_emplacement/emplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"emplacement.h"
+	"type_emplacement.h"
+
